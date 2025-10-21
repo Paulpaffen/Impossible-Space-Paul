@@ -1,0 +1,5 @@
+C:/Users/palep/Impossible spaces/.utmp/RelWithDebInfo/272oh1l3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/palep/Impossible spaces/.utmp/RelWithDebInfo/272oh1l3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/palep/Impossible spaces/.utmp/RelWithDebInfo/272oh1l3/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/palep/Impossible spaces/.utmp/RelWithDebInfo/272oh1l3/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/palep/Impossible spaces/.utmp/RelWithDebInfo/272oh1l3/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

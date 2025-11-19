@@ -178,9 +178,6 @@ public class TransitionTrigger : MonoBehaviour
             Debug.LogWarning("<color=orange><b>[TRANSITION]</b> ⚠️ No hay habitación asignada para desactivar</color>");
         }
         
-        // RECENTRADO DESACTIVADO - Descomenta la siguiente línea para reactivarlo
-        // SendMessage("TriggerRecenter", SendMessageOptions.DontRequireReceiver);
-        
         Debug.Log("<color=cyan>════════════════════════════════════</color>");
         
         // Marcar como activado
